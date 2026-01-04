@@ -349,7 +349,7 @@ And that’s the kind of architecture worth building.
 
 If you’d like to go deeper, the following optional articles explore specific corners of the architecture—contracts, failure handling, observability, tooling trade-offs, and scaling pressure points that deserve their own focused discussion.
 
-**🧾 Event Contracts as APIs**
+**🧾** [**Event Contracts as APIs**](https://devpath-traveler.nguyenviettung.id.vn/event-contracts-as-apis)
 
 **♻️ Dead Letter Queues and Retry Strategies**
 
