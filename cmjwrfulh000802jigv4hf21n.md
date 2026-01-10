@@ -351,7 +351,7 @@ If you’d like to go deeper, the following optional articles explore specific c
 
 **🧾** [**Event Contracts as APIs**](https://devpath-traveler.nguyenviettung.id.vn/event-contracts-as-apis)
 
-**♻️ Dead Letter Queues and Retry Strategies**
+**♻️** [**Dead Letter Queues and Retry Strategies**](https://devpath-traveler.nguyenviettung.id.vn/dead-letter-queues-and-retry-strategies)
 
 **🔍 Observability for Event-Driven Systems**
 
