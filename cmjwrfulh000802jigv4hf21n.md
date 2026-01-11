@@ -355,6 +355,6 @@ If you’d like to go deeper, the following optional articles explore specific c
 
 **🔍** [**Observability for Event-Driven Systems**](https://devpath-traveler.nguyenviettung.id.vn/observability-for-event-driven-systems)
 
-**⚖️ Redis Streams vs Kafka: Choosing the Right Event Backbone**
+**⚖️** [**Redis Streams vs Kafka: Choosing the Right Event Backbone**](https://devpath-traveler.nguyenviettung.id.vn/redis-streams-vs-kafka-choosing-the-right-event-backbone)
 
 **🚦 When the Processor Becomes a Bottleneck**
