@@ -357,4 +357,4 @@ If you’d like to go deeper, the following optional articles explore specific c
 
 **⚖️** [**Redis Streams vs Kafka: Choosing the Right Event Backbone**](https://devpath-traveler.nguyenviettung.id.vn/redis-streams-vs-kafka-choosing-the-right-event-backbone)
 
-**🚦 When the Processor Becomes a Bottleneck**
+**🚦** [**When the Processor Becomes a Bottleneck**](https://devpath-traveler.nguyenviettung.id.vn/when-the-processor-becomes-a-bottleneck)
