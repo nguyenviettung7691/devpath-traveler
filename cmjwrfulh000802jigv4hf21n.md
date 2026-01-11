@@ -353,7 +353,7 @@ If you’d like to go deeper, the following optional articles explore specific c
 
 **♻️** [**Dead Letter Queues and Retry Strategies**](https://devpath-traveler.nguyenviettung.id.vn/dead-letter-queues-and-retry-strategies)
 
-**🔍 Observability for Event-Driven Systems**
+**🔍** [**Observability for Event-Driven Systems**](https://devpath-traveler.nguyenviettung.id.vn/observability-for-event-driven-systems)
 
 **⚖️ Redis Streams vs Kafka: Choosing the Right Event Backbone**
 
