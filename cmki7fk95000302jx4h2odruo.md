@@ -222,7 +222,7 @@ That shift in perspective is the foundation for everything else in this series.
 
 ---
 
-## ☰ Understanding Cron — Series Navigation
+## ☰ Series Navigation
 
 ### Core Series
 
