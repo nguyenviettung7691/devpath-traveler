@@ -1,7 +1,7 @@
 ---
 title: "Cron: The Invisible Operating System"
 seoTitle: "Cron Explained: Why Time-Based Jobs Still Power Modern Systems"
-seoDescription: "An in-depth look at cron as a system primitive, explaining what it is, why it still exists, and how time-based execution differs from event-driven systems i"
+seoDescription: "An in-depth look at cron as a system primitive, explaining what it is, why it still exists, and how time-based execution differs from event-driven systems"
 datePublished: Sat Jan 17 2026 11:08:51 GMT+0000 (Coordinated Universal Time)
 cuid: cmki7fk95000302jx4h2odruo
 slug: cron-the-invisible-operating-system
