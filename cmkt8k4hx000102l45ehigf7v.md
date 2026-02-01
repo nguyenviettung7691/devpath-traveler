@@ -322,29 +322,29 @@ That’s systems thinking.
 
 ### Core Series
 
-* **Introduction**
+* [**Introduction**](https://devpath-traveler.nguyenviettung.id.vn/introduction-to-understanding-cron-from-first-principles-to-production)
     
-* **Part 1:** Cron: The Invisible Operating System
+* **Part 1:** [Cron: The Invisible Operating System](https://devpath-traveler.nguyenviettung.id.vn/cron-the-invisible-operating-system)
     
-* **Part 2:** Anatomy of a Cron Job
+* **Part 2:** [Anatomy of a Cron Job](https://devpath-traveler.nguyenviettung.id.vn/anatomy-of-a-cron-job)
     
-* **Part 3:** Cron at Scale: Patterns and Anti-Patterns
+* **Part 3:** [Cron at Scale: Patterns and Anti-Patterns](https://devpath-traveler.nguyenviettung.id.vn/cron-at-scale-patterns-and-anti-patterns)
     
-* **Part 4:** Cron in Frameworks: From Theory to Convention
+* **Part 4:** [Cron in Frameworks: From Theory to Convention](https://devpath-traveler.nguyenviettung.id.vn/cron-in-frameworks-from-theory-to-convention)
     
-* **Part 5:** HumHub & Yii: Design Intent Behind the Cron Architecture
+* **Part 5:** [HumHub & Yii: Design Intent Behind the Cron Architecture](https://devpath-traveler.nguyenviettung.id.vn/humhub-and-yii-design-intent-behind-the-cron-architecture)
     
-* **Part 6:** A Real Production Setup: What I Actually Built
+* **Part 6:** [A Real Production Setup: What I Actually Built](https://devpath-traveler.nguyenviettung.id.vn/cron-production-setup-what-i-actually-built)
     
-* **Part 7:** Failure Modes, Tradeoffs, and Lessons Learned
+* **Part 7:** [Failure Modes, Tradeoffs, and Lessons Learned](https://devpath-traveler.nguyenviettung.id.vn/cron-failure-modes-tradeoffs-and-lessons-learned)
     
 * → **Part 8:** The Evolution Path: From Cron to Orchestration
     
 
 ### Optional Extras
 
-* ⏳ Cron Lies: When Scheduled Jobs Don’t Run
+* ⏳ [Cron Lies: When Scheduled Jobs Don’t Run](https://devpath-traveler.nguyenviettung.id.vn/cron-lies-when-scheduled-jobs-dont-run)
     
-* 🔁 Idempotency: The Most Important Word in Cron
+* 🔁 [Idempotency: The Most Important Word in Cron](https://devpath-traveler.nguyenviettung.id.vn/idempotency-the-most-important-word-in-cron-youre-probably-ignoring)
     
-* ⚖️ Cron vs Queue vs Event
+* ⚖️ [Cron vs Queue vs Event](https://devpath-traveler.nguyenviettung.id.vn/cron-vs-queue-vs-event-choosing-the-right-trigger)
