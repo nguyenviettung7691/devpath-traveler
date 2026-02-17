@@ -39,6 +39,10 @@ This article walks through:
 * And what surprised me during implementation
     
 
+### Disclaimer
+
+*This article describes architectural patterns and technical approaches based on a real-world implementation. All examples, code snippets, and flow descriptions have been generalized and simplified for educational purposes. No proprietary business logic, confidential configurations, credentials, or organization-specific details are disclosed. The focus is strictly on publicly documented standards (WebAuthn, OIDC) and implementation patterns within a standard VueJS + ASP.NET Core + SQL Server stack.*
+
 ---
 
 # Tooling Used
