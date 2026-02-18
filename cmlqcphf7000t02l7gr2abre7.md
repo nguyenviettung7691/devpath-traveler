@@ -599,7 +599,7 @@ It is:
 
 It is architecture expressed through code.
 
-In the next article, we’ll examine the integration of Feide OIDC in more depth — including account linking, token validation, and how federated identity interacts with your passwordless credential lifecycle.
+In the next article, we’ll examine the integration of Feide OIDC in more depth — including account linking, token validation, and how federated identity interacts with my passwordless credential lifecycle.
 
 Because WebAuthn proves possession.
 
