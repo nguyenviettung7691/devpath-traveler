@@ -469,31 +469,31 @@ And that, ultimately, was the goal of the entire series. This concludes the seri
 
 ### Core Series
 
-* Introduction
+* [Introduction](https://devpath-traveler.nguyenviettung.id.vn/introduction-to-passwordless-modern-authentication-patterns-for-pwas)
     
-* **Article 1 — Authentication is Not Login**
+* [**Article 1 — Authentication is Not Login**](https://devpath-traveler.nguyenviettung.id.vn/authentication-is-not-login)
     
-* **Article 2 — What “Passwordless” Actually Means**
+* [**Article 2 — What “Passwordless” Actually Means**](https://devpath-traveler.nguyenviettung.id.vn/what-passwordless-actually-means)
     
-* **Article 3 — WebAuthn & FIDO2, Explained Without the Spec**
+* [**Article 3 — WebAuthn & FIDO2, Explained Without the Spec**](https://devpath-traveler.nguyenviettung.id.vn/webauthn-and-fido2-explained-without-the-spec)
     
-* **Article 4 — OpenID Connect as the Glue**
+* [**Article 4 — OpenID Connect as the Glue**](https://devpath-traveler.nguyenviettung.id.vn/openid-connect-as-the-glue)
     
-* **Article 5 — Designing a Passwordless-First PWA Architecture**
+* [**Article 5 — Designing a Passwordless-First PWA Architecture**](https://devpath-traveler.nguyenviettung.id.vn/designing-a-passwordless-first-pwa-architecture)
     
-* **Article 6 — UX and Failure Are Part of the Security Model**
+* [**Article 6 — UX and Failure Are Part of the Security Model**](https://devpath-traveler.nguyenviettung.id.vn/ux-and-failure-are-part-of-the-security-model)
     
-* **Article 7 — A Real Passwordless PWA Flow (Architecture Walkthrough)**
+* [**Article 7 — A Real Passwordless PWA Flow (Architecture Walkthrough)**](https://devpath-traveler.nguyenviettung.id.vn/passwordless-pwa-flow-architecture-walkthrough)
     
-* **Article 8 — Implementing WebAuthn in Practice**
+* [**Article 8 — Implementing WebAuthn in Practice**](https://devpath-traveler.nguyenviettung.id.vn/implementing-webauthn-in-practice)
     
-* **Article 9 — Integrating OIDC (Feide) as Fallback and Recovery**
+* [**Article 9 — Integrating OIDC (Feide) as Fallback and Recovery**](https://devpath-traveler.nguyenviettung.id.vn/integrating-oidc-feide-as-fallback-and-recovery)
     
 * → **Article 10 — What Worked, What Didn’t, What I’d Change**
     
 
 ### Optional Extras
 
-* **Why Passwordless Alone Is Not an Identity Strategy**
+* [**Why Passwordless Alone Is Not an Identity Strategy**](https://devpath-traveler.nguyenviettung.id.vn/why-passwordless-alone-is-not-an-identity-strategy)
     
-* **How Browser UX Shapes Security More Than Cryptography**
+* [**How Browser UX Shapes Security More Than Cryptography**](https://devpath-traveler.nguyenviettung.id.vn/how-browser-ux-shapes-security-more-than-cryptography)
